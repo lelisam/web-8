@@ -7,7 +7,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family:'learn';
     src: url(../fonts/LearningCurve-Bold.otf),
@@ -15,26 +14,24 @@
     url(../fonts/LearningCurve-Bold.woff),
     url(../fonts/LearningCurve-Bold.woff2);    
     }
-    @font-face {
-        font-family:'learnb';
-        src: url(../fonts/LearningCurveDings.otf),
-        url(../fonts/LearningCurveDings.ttf),
-        url(../fonts/LearningCurveDings.woff),
-        url(../fonts/LearningCurveDings.woff2);    
-        }
-
-
-        @font-face {
-            font-family:'brondbold';
-            src: url(../fonts/BrandonGrotesque-Bold.ttf),
-            url(../fonts/BrandonGrotesque-Bold.otf),
-            url(../fonts/BrandonGrotesque-Bold.woff),
-            url(../fonts/BrandonGrotesque-Bold.woff2);    
-            }
-            @font-face {
-                font-family:'brondregular';
-                src: url(../fonts/BrandonGrotesque-Regular.otf),
-                url(../fonts/BrandonGrotesque-Regular.ttf),
-                url(../fonts/BrandonGrotesque-Regular.woff),
-                url(../fonts/BrandonGrotesque-Regular.woff2);    
-                }
+@font-face {
+    font-family:'learnb';
+    src: url(../fonts/LearningCurveDings.otf),
+    url(../fonts/LearningCurveDings.ttf),
+    url(../fonts/LearningCurveDings.woff),
+    url(../fonts/LearningCurveDings.woff2);    
+    }
+@font-face {
+    font-family:'brondbold';
+    src: url(../fonts/BrandonGrotesque-Bold.ttf),
+    url(../fonts/BrandonGrotesque-Bold.otf),
+    url(../fonts/BrandonGrotesque-Bold.woff),
+    url(../fonts/BrandonGrotesque-Bold.woff2);    
+    }
+@font-face {
+    font-family:'brondregular';
+    src: url(../fonts/BrandonGrotesque-Regular.otf),
+    url(../fonts/BrandonGrotesque-Regular.ttf),
+    url(../fonts/BrandonGrotesque-Regular.woff),
+    url(../fonts/BrandonGrotesque-Regular.woff2);    
+    }
